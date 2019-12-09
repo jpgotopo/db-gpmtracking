@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"idVice","INTEGER","2","2","0"
+"nombres","STRING","33","0","0"
+"idRegion","INTEGER","2","2","0"

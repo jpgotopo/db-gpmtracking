@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"idSubRegion","INTEGER","2","2","0"
+"nombreSub","STRING","40","0","0"
+"idRegion","INTEGER","2","2","0"

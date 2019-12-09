@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"idCoordGPM","INTEGER","1","1","0"
+"nombre","STRING","18","0","0"
+"IdRegion","INTEGER","2","2","0"
